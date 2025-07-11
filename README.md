@@ -17,7 +17,11 @@
 **信息精选：**
 *   **2024CICA48h游戏开发大赛：**
 **<br>镜笼：https://www.bilibili.com/video/BV1HihmekERi/?spm_id_from=333.1387.favlist.content.click&vd_source=152c6987f0806eb753af5ee03039c428**
+<br>![界面截图](images/mirror.png)
 
+*   **类吸血鬼幸存者游戏开发：SilverBullet**
+  <br>![界面截图](images/SilverBullet.png)
+  
 *   **Bilibili up主主页：**
 <br>![数据截图](images/bilidata.png)
 **榛子香草冰：[https://space.bilibili.com/545759400?spm_id_from=333.40164.0.0](https://space.bilibili.com/545759400?spm_id_from=333.40164.0.0)**
