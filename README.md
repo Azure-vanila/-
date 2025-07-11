@@ -24,7 +24,6 @@
   
 *   **Bilibili up主主页：**
 <br>![数据截图](images/bilidata.png)
-**榛子香草冰：[https://space.bilibili.com/545759400?spm_id_from=333.40164.0.0](https://space.bilibili.com/545759400?spm_id_from=333.40164.0.0)**
 
 *   **网易乐乎创作平台数据：**
   <br>![数据截图](images/lofter.jpg)
