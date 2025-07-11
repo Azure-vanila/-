@@ -19,6 +19,6 @@
 **镜笼：https://www.bilibili.com/video/BV1HihmekERi/?spm_id_from=333.1387.favlist.content.click&vd_source=152c6987f0806eb753af5ee03039c428**
 
 *   **Bilibili up主主页：**
-*   ![数据截图](assets/bilidata.png)
+*   ![数据截图](images/bilidata.png)
 **榛子香草冰：[https://space.bilibili.com/545759400?spm_id_from=333.40164.0.0](https://space.bilibili.com/545759400?spm_id_from=333.40164.0.0)**
 
